@@ -14,7 +14,7 @@
 
 ## 📑 Full Results
 <div align="center">
-  <img src="./pic/exp.png" alt="exp" width="400">
+  <img src="./pic/res.png" alt="exp" width="400">
 </div>
 
 
