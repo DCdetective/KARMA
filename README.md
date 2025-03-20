@@ -63,6 +63,6 @@ Special thanks to the following repositories for their invaluable code and datas
 
 - [https://github.com/thuml/Time-Series-Library](https://github.com/thuml/Time-Series-Library)
 - [https://github.com/thuml/Autoformer](https://github.com/thuml/Autoformer)
-- [https://github.com/thuml/Autoformer](https://github.com/wzhwzhwzh0921/S-D-Mamba)
-- [https://github.com/thuml/Autoformer](https://github.com/thuml/iTransformer)
-- [https://github.com/MAZiqing/FEDformer](https://github.com/Master-PLC/FreDF)
+- [https://github.com/wzhwzhwzh0921/S-D-Mamba](https://github.com/wzhwzhwzh0921/S-D-Mamba)
+- [https://github.com/thuml/iTransformer](https://github.com/thuml/iTransformer)
+- [https://github.com/Master-PLC/FreDF](https://github.com/Master-PLC/FreDF)
