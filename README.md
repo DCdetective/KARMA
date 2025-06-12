@@ -15,13 +15,13 @@
 
 ## 🧩 Architecture
 <div align="center">
-  <img src="./pic/Karma.png" alt="exp" width="600">
+  <img src="./pic/Karma.png" alt="exp" width="800">
 </div>
 
 
 ## 📑 Full Results
 <div align="center">
-  <img src="./pic/res.png" alt="exp" width=600">
+  <img src="./pic/res.png" alt="exp" width=800">
 </div>
 
 
