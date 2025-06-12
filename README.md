@@ -2,8 +2,8 @@
 <div align="center">
 
 [![paper link](https://img.shields.io/badge/WASA-7701-EE4353.svg)](https)&nbsp;
-<!--![Stars](https://img.shields.io/github/stars/yedadasd/KARMA?logo=github)&nbsp;-->
 ![License](https://img.shields.io/badge/license-MIT-blue?logo=book)&nbsp;
+<!--![Stars](https://img.shields.io/github/stars/yedadasd/KARMA?logo=github)&nbsp;-->
 
 </div>
 
