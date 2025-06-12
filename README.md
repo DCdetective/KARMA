@@ -57,10 +57,10 @@ sh ./scripts/Karma_all.sh
 ## 📚 Citation
 If you find this repo useful, please consider citing our paper as follows:
 ```
-@article{ye2025karma,
+@inproceedings{Ye2025KARMAAM,
   title={KARMA: A Multilevel Decomposition Hybrid Mamba Framework for Multivariate Long-Term Time Series Forecasting},
-  author={Ye, Hang and Duan, Gaoxiang and Zeng, Haoran and Zhu, Yangxin and Meng, Lingxue and zheng, Xiaoying and Zhu, Yongxin},
-  journal={The 19th International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA)},
+  author={Hang Ye and Gaoxiang Duan and Haoran Zeng and Yangxin Zhu and Lingxue Meng and Xiaoying Zheng and Yongxin Zhu},
+  journal={arXiv preprint arXiv:2506.08939},
   year={2025}
 }
 ```
