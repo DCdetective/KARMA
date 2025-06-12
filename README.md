@@ -12,9 +12,16 @@
 * We propose **ATCD for dynamic seasonal-trend decomposition and HFTD for hybrid frequency-temporal analysis**, enabling the effective utilization of latent information in time series data and improving predictive accuracy.
 * Comprehensive experiments on eight real-world datasets across various domains demonstrate that KARMA achieves **state-of-the-art** performance in most benchmarks.
 
+
+## 🧩 Architecture
+<div align="center">
+  <img src="./pic/Karma.png" alt="exp" width="600">
+</div>
+
+
 ## 📑 Full Results
 <div align="center">
-  <img src="./pic/res.png" alt="exp" width="400">
+  <img src="./pic/res.png" alt="exp" width=600">
 </div>
 
 
