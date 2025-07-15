@@ -2,8 +2,8 @@
 <div align="center">
 
 [![paper link](https://img.shields.io/badge/WASA-7701-EE4353.svg)](https)&nbsp;
+![Stars](https://img.shields.io/github/stars/yedadasd/KARMA?logo=github)&nbsp;
 ![License](https://img.shields.io/badge/license-MIT-blue?logo=book)&nbsp;
-<!--![Stars](https://img.shields.io/github/stars/yedadasd/KARMA?logo=github)&nbsp;-->
 
 </div>
 
@@ -57,11 +57,13 @@ sh ./scripts/Karma_all.sh
 ## 📚 Citation
 If you find this repo useful, please consider citing our paper as follows:
 ```
-@inproceedings{Ye2025KARMAAM,
+@inproceedings{ye2025karma,
   title={KARMA: A Multilevel Decomposition Hybrid Mamba Framework for Multivariate Long-Term Time Series Forecasting},
-  author={Hang Ye and Gaoxiang Duan and Haoran Zeng and Yangxin Zhu and Lingxue Meng and Xiaoying Zheng and Yongxin Zhu},
-  journal={arXiv preprint arXiv:2506.08939},
-  year={2025}
+  author={Ye, Hang and Duan, Gaoxiang and Zeng, Haoran and Zhu, Yangxin and Meng, Lingxue and Zheng, Xiaoying and Zhu, Yongxin},
+  booktitle={International Conference on Wireless Artificial Intelligent Computing Systems and Applications},
+  pages={266--276},
+  year={2025},
+  organization={Springer}
 }
 ```
 
