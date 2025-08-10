@@ -1,45 +1,14 @@
 import os
 import torch
-from models import Autoformer, Transformer, TimesNet, Nonstationary_Transformer, DLinear, \
-    Informer, LightTS, Reformer, ETSformer, Pyraformer, PatchTST, MICN, Crossformer, FiLM, iTransformer, \
-    Koopa, TiDE, FreTS, TimeMixer, TSMixer, SegRNN, MambaSimple, TemporalFusionTransformer, SCINet, Mamba, Karma, \
-    TimeMachine, S_Mamba, WaveForM
-# from models import Karma
+from models import Karma, Mamba, S_Mamba
 
 class Exp_Basic(object):
     def __init__(self, args):
         self.args = args
         self.model_dict = {
-            'TimesNet': TimesNet,
-            'Autoformer': Autoformer,
-            'Transformer': Transformer,
-            'Nonstationary_Transformer': Nonstationary_Transformer,
-            'DLinear': DLinear,
-            'FEDformer': FEDformer,
-            'Informer': Informer,
-            'LightTS': LightTS,
-            'Reformer': Reformer,
-            'ETSformer': ETSformer,
-            'PatchTST': PatchTST,
-            'Pyraformer': Pyraformer,
-            'MICN': MICN,
-            'Crossformer': Crossformer,
-            'FiLM': FiLM,
-            'iTransformer': iTransformer,
-            'Koopa': Koopa,
-            'TiDE': TiDE,
-            'FreTS': FreTS,
-            'MambaSimple': MambaSimple,
-            'TimeMixer': TimeMixer,
-            'TSMixer': TSMixer,
-            'SegRNN': SegRNN,
-            'TemporalFusionTransformer': TemporalFusionTransformer,
-            "SCINet": SCINet,
-            'Mamba': Mamba,
             'Karma': Karma,
-            'TimeMachine': TimeMachine,
+            'Mamba': Mamba,
             'S_Mamba': S_Mamba,
-            'WaveForM':WaveForM
         }
 
         self.device = self._acquire_device()
